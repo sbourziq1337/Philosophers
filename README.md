@@ -75,7 +75,7 @@ In the mandatory part, the simulation is implemented using threads and mutexes:
 1. Clone the repository:
     
     ```
-    git clone <repository-url>
+    git clone https://github.com/sbourziq1337/Philosophers.git
     ```
     
 2. Navigate to the mandatory part directory:
